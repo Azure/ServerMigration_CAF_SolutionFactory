@@ -10,9 +10,9 @@ The Server Migration CAF Solution Factory has Technical and Sales Enablement con
 
 ## Pre-Sales Contents    
  * [Server Migration CAF Pre-Sales](/SalesEnablement/)   
-   Sales material for Server Migration and Cloud ADoption Framework
+   Sales material for Server Migration and Cloud Adoption Framework
 
-* [eBook: Server Adoption Aligned To Cloud Adoption Framework](/TechnicalEnablement/1_eBook_ServerMigration_Aligned_To_Cloud_Adoption_Framework.docx)  
+* [eBook: Server Adoption Aligned To Cloud Adoption Framework](/TechnicalEnablement)  
    Detailed guidance about what one needs to do in each of the Cloud Adoption phases for Server Migration starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete Server migration and management aligned to the Cloud Adoption Framework methodology.
    
    This eBook contains the following documents:    
