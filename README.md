@@ -1,31 +1,43 @@
+# Server Migration Solution Factory Aligned to Cloud Adoption Framework # 
+The Server Adoption CAF Solution Factory is collection of eBook, TaskList in DevOps Project and Excel, Security Policies suggestions that can help Microsoft customers and partners to deploy and manage Servers in alignment to Cloud Adoption Framework (CAF). 
 
-# Contributing
+ The Azure Cloud Adoption Journey
+ ![CAF](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/TechnicalEnablement/CAF.png)
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+## Server Migration CAF Solution Factory Contents
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+* [eBook: Server Adoption Aligned To Cloud Adoption Framework](1_eBook_ServerMigration_Aligned_To_Cloud_Adoption_Framework.docx)  
+   Detailed guidance about what one needs to do in each of the Cloud Adoption phases for Server Migration starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete Server migration and management aligned to the Cloud Adoption Framework methodology.
+   
+   This eBook contains the following documents:    
+    [eBook_ServerMigration_Aligned_To_Cloud_Adoption_Framework](1_eBook_ServerMigration_Aligned_To_Cloud_Adoption_Framework.docx)  
+    [eBook_ServerMigration_Deployment_Guide](2_eBook_ServerMigration_Deployment_Guide.docx)  
+    
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+*  [Server Migration CAF DevOps Project TaskList](3_ServerMigration_CAF_DevOps_ProjectTaskList.zip)  
+    When you go through the Server migration, there are many different activities that needs to be done. We have supplied Azure DevOps Project that will provide the steps necessary to go from zero to a complete Server migration and management. 
 
-# Legal Notices
+    Steps to import the DevOps Project:   
+    * Sign in to the [Azure DevOps Demo Generator site](https://azuredevopsdemogenerator.azurewebsites.net/)    
+    * Provide project name, select your Org, and choose [Server Migration DevOps Project Tasklist](3_ServerMigration_CAF_DevOps_ProjectTaskList.zip) template from this GitHub Repo 
 
-Microsoft and any contributors grant you a license to the Microsoft documentation and other content
-in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
-see the [LICENSE](LICENSE) file, and grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the
-[LICENSE-CODE](LICENSE-CODE) file.
+*  [Server Migration CAF Project TaskList](4_ServerMigration_CAF_Project_TaskList.xlsx)  
+   If you are not leveraging Azure DevOps for project management, no worries. We have provided all the activities in an excel sheet which can be leveraged as is or imported into your own project management tool of choice.  
 
-Microsoft, Windows, Microsoft Azure and/or other Microsoft products and services referenced in the documentation
-may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries.
-The licenses for this project do not grant you rights to use any Microsoft names, logos, or trademarks.
-Microsoft's general trademark guidelines can be found at http://go.microsoft.com/fwlink/?LinkID=254653.
+*  [CAF Governance Security for Server Migration - Security policies](6_ServerMigration_GovernanceSecurityPolicy.xlsx)  
+   One common question that we get is what are the security considerations for Server Migartion. So we have provided guidance about how to leverage the Azure policies to secure your environment. This can act as a good starting point for your security consideration.   
 
-Privacy information can be found at https://privacy.microsoft.com/en-us/
 
-Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
-or trademarks, whether by implication, estoppel or otherwise.
+## Additional Links
+ [Server migration](https://docs.microsoft.com/en-us/azure/migrate/)  
+ [Azure Cloud Adoption Framework](https://www.microsoft.com/azure/partners/b/enable/cloud-adoption-framework)  
+ [Azure Cloud Adoption Framework Partners](https://www.microsoft.com/azure/partners/adopt?filters=all)  
+
+## Migration Programs  
+ [Azure Migration Program Funding](https://azure.microsoft.com/en-us/migration/migration-program)   
+ [Microsoft FastTrack for Azure](https://azure.microsoft.com/en-us/programs/azure-fasttrack)  
+
+## Key Contributors  
+Thanks to our contributors:  
+Microsoft Team: Farida Bharmal, Manish Dhall    
+We have leveraged help from Microsoft Partner [Fyrsoft](https://www.fyrsoft.com/) to create the Solution Factory   
